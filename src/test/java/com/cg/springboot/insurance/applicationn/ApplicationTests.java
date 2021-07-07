@@ -1,4 +1,4 @@
-package net.javaguides.springboot.Springboothelloworldapplication;
+package com.cg.springboot.insurance.applicationn;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
